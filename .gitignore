@@ -1,5 +1,8 @@
 .DS_Store
 .tmp/
 node_modules/
-packages/
-.pub/
+dart/.pub/
+dart/packages/
+dart/build/packages/
+dart/web/packages/
+.packages
